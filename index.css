@@ -1,0 +1,18 @@
+body{
+	background-color: #b3f0ff;
+}
+
+h1{
+	font-size: 30px;
+
+}
+
+#bannerpic{
+	height: 250px;
+	width: 500px;
+}
+
+.bottomimage{
+	width: 300px;
+	height: 250px;
+}
