@@ -55,7 +55,7 @@ button{
 	width: 100%;
 }
 
-li{
+.navbutton{
 	display: inline-block;
 	padding: 25px;
 	font-size: 25px;
