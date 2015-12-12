@@ -10,11 +10,33 @@ h1{
 #bannerpic{
 	height: 250px;
 	width: 500px;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.mainimage{
+	text-align: center;
+	margin: 0 auto;
 }
 
 .bottomimage{
 	width: 300px;
 	height: 250px;
+	display: block;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+.middleimages{
+	display: block;
+	width: 100%;
 }
 
 button{
@@ -23,3 +45,19 @@ button{
 	margin: 20px;
 	font: 20px;
 }
+
+.navbar{
+	width: 100%;
+}
+
+li{
+	display: inline-block;
+	padding: 25px;
+	font-size: 25px;
+	margin: 35px 100px;
+}
+
+ul{
+	list-style: none;
+}
+
